@@ -1,0 +1,32 @@
+@media (max-widht:1100px){
+    
+    .hero{
+        height:auto;
+    }
+    .hero__content{
+        flex-wrap: wrap;
+        padding-top: 60px;
+    }  
+
+    .hero__desc{
+        margin: 0 auto;
+        margin-bottom: 100px;
+    }
+    .hero__btn-wrap{
+        width: 100%;
+        display: flex;
+        justify-content:center ;
+    }
+
+    .hero__img-wrap{
+        width: 569px;
+        height: 593px;
+        margin-left: auto;
+    }
+   
+    
+    .hero__img{
+        flex-shrink: 0;
+    }
+
+}
