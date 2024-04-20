@@ -1,1 +1,1 @@
-https://rasulmutallimov2011.github.io/Cozy_house4/
+https://rasulmutallimov2011.github.io/Cozy_house_Rasul/
